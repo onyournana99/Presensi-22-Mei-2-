@@ -4,7 +4,6 @@ data_mahasiswa = [
     ["Citra", "Tinggi",  "Tidak Lengkap"],
     ["Deni",  "Rendah",  "Lengkap"],
     ["Eka",   "Tinggi",  "Lengkap"],
-    ["Fatur", "Rendah",  "Lengkap"],
 ]
 
 LEBAR = 50
